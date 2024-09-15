@@ -1,2 +1,2 @@
-ashish-whatisapp.netlify.app
+https://ashish-whatisapp.netlify.app
 link -> ashish-whatisapp.netlify.app
